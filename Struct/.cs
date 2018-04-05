@@ -1,0 +1,4 @@
+﻿namespace Struct
+{
+    enum
+}
